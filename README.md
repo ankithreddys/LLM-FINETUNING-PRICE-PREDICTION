@@ -34,8 +34,8 @@ This project provides a modular, MLflow-integrated pipeline for fine-tuning the 
 ### 1. Clone Repository
 
 ```bash
-git clone <your_repo_url>
-cd <repo>
+git clone [github.com/ankithreddys/LLM-FINETUNING-PRICE-PREDICTION.git](https://github.com/ankithreddys/LLM-FINETUNING-PRICE-PREDICTION.git)
+cd LLM-FINETUNING-PRICE-PREDICTION
 ```
 
 ### 2. Create Virtual Environment
