@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/946396846084079800/f49c5c1addee4847a49d0da44ac91d67/artifacts
+deleted_time: 1749411486561
+end_time: 1749410998567
+entry_point_name: ''
+experiment_id: '946396846084079800'
+lifecycle_stage: deleted
+run_id: f49c5c1addee4847a49d0da44ac91d67
+run_name: LLM_FINETUNING-2025-06-08_15.27.22
+run_uuid: f49c5c1addee4847a49d0da44ac91d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749410852281
+status: 4
+tags: []
+user_id: ankit

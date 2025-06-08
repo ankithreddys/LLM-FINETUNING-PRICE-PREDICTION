@@ -1,0 +1,4 @@
+/.env
+/venv/
+/LLM_FINETUNING-2025-06-08_15.37.00/
+/models--Qwen--Qwen2.5-3B/

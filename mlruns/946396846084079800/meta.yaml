@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/946396846084079800
+creation_time: 1749410852142
+experiment_id: '946396846084079800'
+last_update_time: 1749410852142
+lifecycle_stage: active
+name: LLM_FINETUNING
